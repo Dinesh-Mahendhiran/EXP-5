@@ -30,8 +30,21 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+Circuit Diagram
 
-V-I & REGULATION CHARACTERISTICS:
+<img width="1263" height="837" alt="image" src="https://github.com/user-attachments/assets/d97d3ee7-a231-4f93-a6cf-85c07d96ffd4" />
+Tabulation:
+Line Regulation:
+<img width="1737" height="748" alt="image" src="https://github.com/user-attachments/assets/04a08f1f-3891-4c7b-9dae-a21b02b9fa64" />
+
+Load Regulation:
+<img width="1718" height="833" alt="image" src="https://github.com/user-attachments/assets/58696100-270f-4437-b3ef-b3f277f40e70" />
+
+Model Graph:
+Line Regulation:
+<img width="1728" height="773" alt="image" src="https://github.com/user-attachments/assets/502fc4dd-3c60-4fa4-bce7-747df2f868b6" />
+Load Regulation:
+<img width="1744" height="718" alt="image" src="https://github.com/user-attachments/assets/6c6d9584-5196-4113-8ecc-87169be0cfad" />
 
 PRECAUTIONS:
 
